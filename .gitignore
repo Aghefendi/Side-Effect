@@ -1,0 +1,28 @@
+# Virtual environments
+env/
+venv/
+hf-env/
+
+# Logs
+*.log
+
+# Gradio
+gradio_cached_examples/
+
+# Ignore pharma-gpt folder
+pharma-gpt/
+
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Hugging Face cache
+.cache/
+transformers_cache/
+datasets_cache/

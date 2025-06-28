@@ -7,8 +7,7 @@ This project is a computer vision and NLP-powered system that detects **drug nam
 The system takes an image of a **medicine box or label**, extracts the drug name using **YOLOv8 object detection** and **OCR (EasyOCR)**, and then predicts side effects using a **Hugging Face transformer model**.
 
 <p align="center">
-  <img src="assets/example.png" alt="Demo" width="600"/>
-  <img src="assets/example2.png" alt="Demo" width="600"/>
+  <img src="assets/example2.png" alt="Demo" width="800"/>
 </p>
 
 ---
@@ -50,3 +49,7 @@ cd Side-Effect
 # Install dependencies
 pip install -r requirements.txt
 ```
+## Contributors
+
+- Mehmet Agah Cicek (LLM Development)
+- Bilal Berek (YOLO MODEL)

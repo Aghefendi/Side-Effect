@@ -45,7 +45,7 @@ The system takes an image of a **medicine box or label**, extracts the drug name
 
 ```bash
 git clone https://github.com/Aghefendi/Side-Effect.git
-cd Side-Effect
+cd gradio_server.py
 
 # Install dependencies
 pip install -r requirements.txt
